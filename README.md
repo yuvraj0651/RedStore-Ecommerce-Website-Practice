@@ -2,6 +2,10 @@
 
 <h3 align="center">A modern, responsive ecommerce website UI built with React.js and Tailwind CSS, practicing key frontend UI skills for real‑world shopping platforms.</h3>
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ---
 
 ## 🚀 Overview
