@@ -29,3 +29,14 @@ This project is designed to improve frontend skills by replicating essential pat
 - **Styling:** Tailwind CSS, HTML5, CSS3  
 - **Languages:** JavaScript (ES6+)  
 - **Tools:** Git, GitHub
+
+---
+
+## 🚀 Installation
+
+Clone the repository and run locally:
+
+```bash
+git clone https://github.com/yuvraj0651/RedStore-Ecommerce-Website-Practice.git
+cd RedStore-Ecommerce-Website-Practice
+open index.html
